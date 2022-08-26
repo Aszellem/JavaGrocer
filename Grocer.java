@@ -32,6 +32,8 @@ public class Grocer {
 
         }
 
+        //another task
+
         Scanner scan = new Scanner(System.in);
 
         String[] store = {"apples", "bananas", "candy", "chocolate", "coffee", "tea"};
